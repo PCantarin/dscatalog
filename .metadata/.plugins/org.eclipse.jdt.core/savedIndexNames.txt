@@ -6,9 +6,9 @@ INDEX VERSION 1.134+/home/pedro/Desenvolvimento/Workspaces/dscatalog/.metadata/.
 1443944768.index
 246628566.index
 200477899.index
-1574274425.index
-3470906426.index
 471280554.index
+3470906426.index
+1574274425.index
 901112893.index
 193617992.index
 4099416918.index
@@ -35,12 +35,12 @@ INDEX VERSION 1.134+/home/pedro/Desenvolvimento/Workspaces/dscatalog/.metadata/.
 3152062942.index
 682146823.index
 2637166086.index
+1476245916.index
 460836395.index
 2309334120.index
 2929419001.index
 428402428.index
 2877974623.index
-4174158793.index
 4056410138.index
 1234827476.index
 3886794904.index

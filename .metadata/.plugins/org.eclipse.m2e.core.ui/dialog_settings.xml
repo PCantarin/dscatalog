@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/home/pedro/Desenvolvimento/Workspaces/dscatalog/"/>
 			<item value="/home/pedro/Desenvolvimento/Workspaces/dscatalog/dscatalog"/>
 		</list>
 		<list key="projectNameTemplate">
